@@ -1,0 +1,26 @@
+.login-form{
+    text-align: center;
+    border: 2px solid gray;
+    width: 25%;
+    margin: 50px auto;
+    padding: 0 10px 30px;
+    border-radius: 20px;
+}
+h1{
+    margin-bottom: 30px;
+}
+.login-input{
+    margin-bottom: 15px;
+    padding: 8px 30px;
+    border-radius: 8px;
+}
+.login-btn{
+    margin-top: 15px;
+    margin-bottom: 20px;
+    padding: 8px 40px;
+    background-color: goldenrod;
+    color: white;
+    border: 0;
+    border-radius: 7px;
+    font-weight: 600;
+}
